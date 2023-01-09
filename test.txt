@@ -1,2 +1,4 @@
 dodaje tekst
 first branch
+raz
+dwa
